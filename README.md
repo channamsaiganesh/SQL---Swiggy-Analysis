@@ -149,6 +149,9 @@ dim_location --- fact_swiggy_orders --- dim_restaurant
                     |
                     |
                  dim_dish
+
+---
+
 # 📈 KPI Development
 
 Once the Star Schema is built, the next step is to calculate key performance indicators (KPIs) and perform detailed business analysis to uncover actionable insights.
